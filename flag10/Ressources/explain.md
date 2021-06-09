@@ -1,3 +1,5 @@
+# LEVEL 10
+
 In our home directory, we have one suid/guid executable, and one token file:
 		>$ ls -l
 		total 16
