@@ -1,4 +1,4 @@
-
+# LEVEL 06
 In our home directory, we have an executable with suid, and a php script allowing us to know what the executable does:
         >$ ls -la
         -rwsr-x---+ 1 flag06 level06 7503 Aug 30  2015 level06

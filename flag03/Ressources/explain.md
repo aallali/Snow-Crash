@@ -1,4 +1,4 @@
-#LEVEL 03
+# LEVEL 03
 In our home directory, we have an executable with SUID (**S**et owner **U**ser **ID** up on execution) and GUID (**G**lobally **U**nique **Id**entifier) (the first s is for SETUID, and the second s is for SETGID, this means that when we execute `level03`, we execute it with the `uid` of `flag03` and the `gid` of `level03`):
 ```
 >$ ls -la
