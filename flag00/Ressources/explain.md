@@ -1,5 +1,5 @@
 
-#LEVEL 00
+# LEVEL 00
 Using the command below we get all files that are created by the user under name `flag00` , that we have access permission to, and `2>/dev/null` is to redirect the `stderr` into the null device for more readability: 
 ```
 >$ find / -user flag00 2> /dev/null
